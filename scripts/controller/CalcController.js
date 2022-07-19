@@ -26,8 +26,6 @@ class CalcController{
 
       this.displayCalc = parseFloat(text);
 
-      console.log(text);
-
     })
 
   }
@@ -317,8 +315,6 @@ class CalcController{
       }
 
     }
-
-    console.log(this._operation);
 
   }
 
